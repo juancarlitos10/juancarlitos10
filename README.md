@@ -15,7 +15,7 @@ olá, eu sou Juan Carlos
 -react
 -Javascript e Typescript
 
-##Meus contatos
+## Meus contatos
 
 -Instagram @juan_carlitera
 -Github @juancarlitos10
